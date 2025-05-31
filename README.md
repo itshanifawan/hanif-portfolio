@@ -1,3 +1,4 @@
+HEAD
 <h1 style="color: #F26C4F; text-align: center; padding: 20px 0"> Freelance Web Developer Portfolio Template ✨</h1>
 
 
@@ -126,3 +127,7 @@ Let's connect on my [Github](https://github.com/Iamdivyak) for more such project
 		</td>
 	</tr>
 </table>
+=======
+# hanif-portfolio
+My freelance developer portfolio
+>>>>>>> 67771e64ca223d0a687187b6faec1f677dafbae0
