@@ -2,11 +2,9 @@ HEAD
 <h1 style="color: #F26C4F; text-align: center; padding: 20px 0"> Hanif Awan Portfolio ✨</h1>
 
 
-## Hanif Awan Portfolio !
-<img width="908" alt="image" src="https://github.com/Iamdivyak/Freelance-Web-Developer-Portfolio-Template/assets/102896170/9035b9d2-255f-4df1-a355-dd4cb7d16fe4">
 
 
-To view LIVE, **[click here](https://hanifshowcase.netlify.app/)**.
+To view LIVE, **[Hire ME](https://hanifshowcase.netlify.app/)**.
 
 ## Getting Started
 
